@@ -1,3 +1,9 @@
+För användning i dnn installationer att installera samtidigt som modulen eller skinnet
+
+https://github.com/sschlesier/sf-webapi-helloworld
+
+git clone https://github.com/sschlesier/sf-webapi-helloworld.git Aj_quizEngineAPI2
+
 # What is this? #
 
 This is the source for my Getting Started with Services Framework WebAPI edition blog post.
